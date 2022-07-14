@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#"> SIKTIR GIT BURDAN Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, Eray Kurt 1234</h1>
+   <h1> Thankyou, Happy Learning, Eray Kurt  (Behlul Kacar) 1234</h1>
 
   
 </form>
