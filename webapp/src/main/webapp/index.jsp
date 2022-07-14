@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our ZOOORRRRRRRTTTTT zortlarin sahi <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our ZOOORRRRRRRTTTTT zortlarin sahi <a href="#">Terms & Privacy (There is None) </a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
